@@ -1,4 +1,4 @@
-Ež¬c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:48;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-11-27 16:49:11";s:13:"post_date_gmt";s:19:"2022-11-27 19:49:11";s:12:"post_content";s:13529:"<ul>
+Ý÷®c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:48;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-11-27 16:49:11";s:13:"post_date_gmt";s:19:"2022-11-27 19:49:11";s:12:"post_content";s:13541:"<ul>
 							<li>
 										(18) 8834-7844 | (18) 7575-3637
 									</li>
@@ -98,31 +98,31 @@ Ež¬c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:48;s:11:"post
 						Consulte agora
 					</a>
 			<figure><img width="1273" height="534" src="http://localhost/Law_Firm/wp-content/uploads/2022/11/laurel-icon.png" alt="Law Firm" loading="lazy" /></figure><h3>ARTIGOS</h3>		
-									<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales" target="_self" rel="noopener">
+									<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales/" target="_self" rel="noopener">
 										<img width="293" height="175" src="http://localhost/Law_Firm/wp-content/uploads/2022/11/image-A-a.jpg" alt="Law Firm" decoding="async" loading="lazy" />									</a>
-											<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales" target="_self" rel="noopener"></a>
+											<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales/" target="_self" rel="noopener"></a>
 			<h2>
-				<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales" target="_self" rel="noopener">Vestibulum fringilla semper quam non sodales.</a>
+				<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales/" target="_self" rel="noopener">Vestibulum fringilla semper quam non sodales.</a>
 			</h2>
-													<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales" target="_self" rel="noopener">6 de janeiro de 2016</a>
+													<a href="http://localhost/Law_Firm/vestibulum-fringilla-semper-quam-non-sodales/" target="_self" rel="noopener">6 de janeiro de 2016</a>
 			<p>
 Ut ex risus, elementum vitae placerat in, porta et ex. Integer elementum magna at ex tincidunt, quis suscipit justo interdum. Nunc tempor mollis libero ut ultricies. Nullam tristique venenatis erat nec dictum Ut ex risus, elementum vitae placerat in, porta et ex. Integer elementum magna at ex tincidunt, quis suscipit justo interdum. Nunc tempor mollis â€¦</p>		
-									<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed" target="_self" rel="noopener">
+									<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed/" target="_self" rel="noopener">
 										<img width="293" height="175" src="http://localhost/Law_Firm/wp-content/uploads/2022/11/image-A-b.jpg" alt="Law Firm" decoding="async" loading="lazy" />									</a>
-											<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed" target="_self" rel="noopener"></a>
+											<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed/" target="_self" rel="noopener"></a>
 			<h2>
-				<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed" target="_self" rel="noopener">Sed ornare euismod ex, nec aliquam lorem fringilla sed.</a>
+				<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed/" target="_self" rel="noopener">Sed ornare euismod ex, nec aliquam lorem fringilla sed.</a>
 			</h2>
-													<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed" target="_self" rel="noopener">6 de janeiro de 2016</a>
+													<a href="http://localhost/Law_Firm/sed-ornare-euismod-ex-nec-aliquam-lorem-fringilla-sed/" target="_self" rel="noopener">6 de janeiro de 2016</a>
 			<p>
 Ut ex risus, elementum vitae placerat in, porta et ex. Integer elementum magna at ex tincidunt, quis suscipit justo interdum. Nunc tempor mollis libero ut ultricies. Nullam tristique venenatis erat nec dictum Ut ex risus, elementum vitae placerat in, porta et ex. Integer elementum magna at ex tincidunt, quis suscipit justo interdum. Nunc tempor mollis â€¦</p>		
-									<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta" target="_self" rel="noopener">
+									<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta/" target="_self" rel="noopener">
 										<img width="293" height="175" src="http://localhost/Law_Firm/wp-content/uploads/2022/11/image-A-c.jpg" alt="Law Firm" decoding="async" loading="lazy" />									</a>
-											<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta" target="_self" rel="noopener"></a>
+											<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta/" target="_self" rel="noopener"></a>
 			<h2>
-				<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta" target="_self" rel="noopener">Usce vulputate ligula quis enim fringilla, nec placerat nisl porta.</a>
+				<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta/" target="_self" rel="noopener">Usce vulputate ligula quis enim fringilla, nec placerat nisl porta.</a>
 			</h2>
-													<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta" target="_self" rel="noopener">6 de janeiro de 2016</a>
+													<a href="http://localhost/Law_Firm/usce-vulputate-ligula-quis-enim-fringilla-nec-placerat-nisl-porta/" target="_self" rel="noopener">6 de janeiro de 2016</a>
 			<p>
 Ut ex risus, elementum vitae placerat in, porta et ex. Integer elementum magna at ex tincidunt, quis suscipit justo interdum. Nunc tempor mollis libero ut ultricies. Nullam tristique venenatis erat nec dictum Ut ex risus, elementum vitae placerat in, porta et ex. Integer elementum magna at ex tincidunt, quis suscipit justo interdum. Nunc tempor mollis â€¦</p>		
 			<a href="#" role="button">
@@ -190,4 +190,4 @@ oi@lawfirm,com						</p>
 						<a href="http://localhost/Law_Firm" target="_self" rel="noopener">
                             <img src="" title="" alt="" />
 						</a> 
-					<button type="button">X</button>";s:10:"post_title";s:4:"Home";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:4:"home";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-12-28 16:01:30";s:17:"post_modified_gmt";s:19:"2022-12-28 19:01:30";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:37:"http://localhost/Law_Firm/?page_id=48";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
+					<button type="button">X</button>";s:10:"post_title";s:4:"Home";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:4:"home";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-12-30 11:35:10";s:17:"post_modified_gmt";s:19:"2022-12-30 14:35:10";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:37:"http://localhost/Law_Firm/?page_id=48";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

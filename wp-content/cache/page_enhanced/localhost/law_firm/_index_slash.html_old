@@ -1158,6 +1158,7 @@ var wpcf7 = {"api":{"root":"http:\/\/localhost\/Law_Firm\/wp-json\/","namespace"
 <script src='http://localhost/Law_Firm/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.7.5' id='elementskit-framework-js-frontend-js'></script>
 <script id='elementskit-framework-js-frontend-js-after'>
+
 		var elementskit = {
 			resturl: 'http://localhost/Law_Firm/wp-json/elementskit/v1/',
 		}
@@ -1179,7 +1180,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.1' id='elementor-frontend-js'></script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.7.5' id='animate-circle-js'></script>
 <script id='elementskit-elementor-js-extra'>
-var ekit_config = {"ajaxurl":"http:\/\/localhost\/Law_Firm\/wp-admin\/admin-ajax.php","nonce":"2956434004"};
+var ekit_config = {"ajaxurl":"http:\/\/localhost\/Law_Firm\/wp-admin\/admin-ajax.php","nonce":"79f30bf482"};
 </script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.7.5' id='elementskit-elementor-js'></script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/master-addons/assets/js/plugins.js?ver=1.9.7' id='master-addons-plugins-js'></script>
@@ -1194,10 +1195,10 @@ var jltma_data_table_vars = {"lengthMenu":"Display _MENU_ records per page","zer
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 96/102 objects using disk
+Object Caching 97/103 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading
-Database Caching 6/14 queries in 0.014 seconds using disk
+Database Caching 7/16 queries in 0.014 seconds using disk
 
-Served from: localhost @ 2022-12-28 16:48:39 by W3 Total Cache
+Served from: localhost @ 2022-12-30 10:52:26 by W3 Total Cache
 -->

@@ -1,4 +1,4 @@
-Ÿ ¬c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1010;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-12-01 02:58:46";s:13:"post_date_gmt";s:19:"2022-12-01 05:58:46";s:12:"post_content";s:1668:"[text* your-name placeholder "Nome"]
+ñ÷®c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1010;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-12-01 02:58:46";s:13:"post_date_gmt";s:19:"2022-12-01 05:58:46";s:12:"post_content";s:1668:"[text* your-name placeholder "Nome"]
 [email* your-email placeholder "e-mail"]
 [text* your-subject placeholder "Telefone"]
 [textarea your-message placeholder "Mensagem"]
