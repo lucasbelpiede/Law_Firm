@@ -1,0 +1,18 @@
+{
+    "name": "boldgrid/tdcron",
+    "description": "A simple utility to manipulate cron jobs.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Joe Cartonia",
+            "email": "joec@boldgrid.com",
+            "homepage": "https://twitter.com/joemotocss",
+            "role": "Developer"
+        },
+        {
+            "name": "bwmarkle",
+            "role": "Developer"
+        }
+    ]
+}

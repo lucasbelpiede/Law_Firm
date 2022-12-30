@@ -1,0 +1,452 @@
+[id^=toplevel_page_boldgrid-backup] .wp-menu-image::before {
+	content: "\f178";
+}
+
+.dashicons-editor-help {
+	display: inline-block;
+	position: relative;
+	cursor: pointer;
+}
+
+.help[data-id] {
+	display: none;
+}
+th .help[data-id] {
+	font-weight: normal;
+}
+
+/* Create an inline spinner. */
+.spinner.inline {
+	float: none;
+	visibility: visible;
+	vertical-align: bottom;
+	margin-left: 0px;
+}
+.spinner.inline.middle {
+	vertical-align: middle;
+}
+.spinner.hidden {
+	display: none;
+}
+
+/* When the user clicks to rollback site, show the spinner. */
+#restore-now-section .spinner.is-active {
+	display: inline-block;
+}
+
+/* While thickbox is loading, show something rather than nothing. */
+#TB_iframeContent {
+	background: #f1f1f1;
+}
+
+/* Prevent clicks on disabled links. */
+a[disabled] {
+	pointer-events: none;
+}
+
+.bgbu-wait {
+	cursor: wait !important;
+}
+
+.dashicons.red {
+	color: #dc3232;
+}
+
+.dashicons-warning.yellow {
+	color: #ffb900;
+}
+
+.dashicons.green {
+	color: #46b450;
+}
+
+div .dashicons {
+	vertical-align: bottom;
+}
+
+/* Dashicon in "mine count". */
+.subsubsub .dashicons {
+	vertical-align: text-top;
+}
+
+/* The table of size data. */
+#size-data table tr td {
+	vertical-align: top;
+}
+
+.total-size {
+	background: #ddd;
+	width: 325px;
+}
+
+.usage {
+	height: 5px;
+	max-width: 100% !important;
+}
+
+.usage.size-error {
+	background: #dc3232;
+}
+
+.usage.size-warning {
+	background: #ffb900;
+}
+
+.usage.size-success {
+	background: #46b450;
+}
+
+/* Format a table within a table. */
+.form-table table td {
+	padding: 0px 10px 0px 0px;
+}
+
+/* Clean up headers we place in any admin notices. */
+.notice .header-notice {
+	margin-top: 10px;
+}
+
+hr.separator {
+	margin: 30px 0px;
+}
+hr.separator-small {
+	margin: 20px 0px;
+}
+
+/* Get Premium link in the left nav. */
+#adminmenu [class*=boldgrid-backup] .get-premium,
+#adminmenu [class*=boldgrid-backup] .dashicons-dashboard {
+	color: #ffb900;
+}
+
+/* Needed style for bouncing help icon in mine count. */
+.subsubsub .ui-effects-wrapper {
+	display: inline-block;
+}
+
+/* WordPress by default has both the h2 and h3 tags set to the same font size. */
+h3 {
+	font-size: 1.2em;
+}
+
+input:invalid {
+  border: 1px solid red;
+}
+
+#download-link-copy, #url-import-notice {
+	display: none;
+}
+
+#download-copy-button .dashicons {
+	font-size: 16px;
+}
+
+/**
+* Progress bar.
+*
+* When a backup is in progress, we show the user a progress bar.
+*/
+
+#boldgrid-backup-in-progress-bar:before {
+	transition: background-color 2s ease;
+	background-color: transparent;
+}
+
+.heartbeat-lost-focus #boldgrid-backup-in-progress-bar:before {
+	content:"";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba( 255, 255, 255, .9 );
+}
+
+.heartbeat-lost-focus #boldgrid-backup-in-progress-bar #last_file_archived,
+.heartbeat-lost-focus #boldgrid-backup-in-progress-bar .progress-label {
+	color: #ddd;
+}
+
+#boldgrid-backup-in-progress-bar {
+	position: relative;
+	background: #f7f7f7;
+	border: 1px solid #ccc;
+	clear:both;
+	overflow: visible;
+	height: 2em;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+/* The actual progress bar that goes from 0% to 100%. */
+#boldgrid-backup-in-progress-bar .ui-progressbar-value {
+    background-color: #0085ba;
+    -webkit-transition: width 1s ease-out;
+    -moz-transition: width 1s ease-out;
+    -o-transition: width 1s ease-out;
+    transition: width 1s ease-out;
+}
+
+#boldgrid-backup-in-progress-bar #last_file_archived {
+	font-size: 10px;
+	position: absolute;
+	bottom: -20px;
+	left: 0px;
+	white-space: nowrap;
+}
+
+#boldgrid-backup-in-progress-bar .spinner {
+	vertical-align: middle;
+    margin-top: -2px;
+}
+
+.ui-progressbar .ui-progressbar-value {
+	height: 100%;
+}
+
+.progress-label {
+	position: absolute;
+    top: 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+	left:0;
+	right:0;
+	font-weight: 600;
+	color: #0073aa;
+	text-align: center;
+}
+
+.progress-label.over-50 {
+	color: #fff;
+	text-shadow: none;
+}
+
+#boldgrid_backup_in_progress_steps .step {
+	float: left;
+	width: 33%;
+	text-align:center;
+	color: #ddd;
+}
+
+#boldgrid_backup_in_progress_steps .step:first-of-type {
+	text-align: left;
+}
+
+#boldgrid_backup_in_progress_steps .step:last-of-type {
+	text-align: right;
+}
+
+#boldgrid_backup_in_progress_steps .step.active {
+	color: #444;
+	font-weight: bold;
+}
+
+nav[class*="bgbkup-nav-tab-wrapper"] .nav-tab {
+	cursor: pointer;
+}
+
+
+/**
+ * A table showing when the backup started and how.
+ */
+
+#bgbkup_progress_status table {
+	margin-bottom: 10px;
+}
+
+#bgbkup_progress_status table th {
+	padding-right: 10px;
+	font-weight: 500;
+	text-align: left;
+}
+
+
+/**
+ * Custom "smaller" nav tab wrapper.
+ *
+ * For example, having nav tabs in an admin notice.
+ */
+.bgbkup-nav-tab-wrapper-small {
+	margin-bottom: 10px;
+}
+
+.bgbkup-nav-tab-wrapper-small .nav-tab {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 2px 6px;
+}
+
+
+/*
+* Backup Archive Details: title and description.
+*
+* This section contains styles for the title and description input fields.
+*/
+#titlediv #titlewrap #title {
+	margin-bottom: 15px;
+}
+
+[name="backup_description"] {
+	width: 100%;
+	height: 100px;
+	margin: 0px;
+}
+
+/*
+ * Remote Storage providers.
+ *
+ * More specifically, logos for remote storage providers.
+ */
+.bgbkup-gdrive-logo {
+	background-image: url('../image/remote/google-drive-logo.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: calc(292px / 2.3);
+	height: calc(50px / 2.3);
+	display: inline-block;
+}
+
+.bgbkup-gdrive-logo-smaller {
+	width: calc(292px / 2.8);
+	height: calc(50px / 2.8);
+}
+
+.amazon-s3-logo {
+	background-image: url('../image/remote/amazon-s3-logo.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: calc(195px / 2.3);
+	height: calc(50px / 2.3);
+	display: inline-block;
+}
+
+.amazon-s3-logo-smaller {
+	width: calc(195px / 2.8);
+	height: calc(50px / 2.8);
+}
+
+p > .bgbkup-remote-logo {
+	vertical-align: bottom;
+}
+
+/**
+ * Support tab.
+ */
+.bgbkup-support-page {
+	display: flex;
+	margin-top: 1em;
+}
+
+.bgbkup-support-page ul {
+	line-height: 1.4;
+	margin: 0;
+}
+
+/* @todo For reusability, these styles handling the bg-box display can be moved to library/src/assets/css/ui.css */
+.bgbkup-support-page .bg-box {
+	margin: 1em;
+	width: 50%;
+}
+
+.bgbkup-premium-support .bgbkup-upgrade-message {
+	text-align: center;
+}
+
+.bgbkup-premium-support .bgbkup-upgrade-message p:first-of-type {
+	margin-top: 0;
+}
+
+.bgbkup-db-lock {
+	background-image: url('../image/db-lock-64.png');
+	background-position-y: 7px;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	display: block;
+	margin-left: 10px;
+	padding-left: 23px;
+}
+
+/**
+ * Override Library's Ui Page.
+ */
+.bgbkup-page-container #bglib-page-header {
+	background-image: url( '../image/icon-128x128.png' );
+}
+
+/**
+ * Misc.
+ */
+
+/* Allow the standard Thickbox to be shown full screen. */
+#TB_window.bg-full-screen {
+	margin: 0 !important;
+	top: 30px;
+	left: 30px;
+	width: calc( 100% - 60px ) !important;
+	height: calc( 100% - 60px );
+}
+
+#TB_window.bg-full-screen #TB_ajaxContent {
+	width: calc( 100% - 40px ) !important;
+	height: calc( 100% - 60px ) !important;
+}
+
+.bgbkup-transfers-destination .bg-box-bottom.premium .button-success {
+	float: none;
+	margin: 10px;
+}
+
+.page-title-actions {
+	display: inline-block;
+}
+
+.bg-auto-update.dashicons {
+	margin-right: 6px;
+	vertical-align: bottom;
+}
+
+.bg-auto-update.dashicons.dashicons-warning {
+	color: #f56e28;
+}
+
+.bg-auto-update.dashicons.dashicons-yes {
+	color: #79ba49;
+}
+
+#upload-archive-section.wp-upload-form {
+	flex-wrap: wrap;
+}
+.bgbkup-page-container .upload-plugin .wp-upload-form {
+	max-width: 85%;
+	align-items: center;
+}
+
+.bgbkup-page-container .upload-plugin .wp-upload-form p {
+	padding-right: 1em;
+}
+
+.bgbkup-page-container .upload-plugin .wp-upload-form .error_messages p {
+	width: 100%;
+}
+
+.bgbkup-page-container .upload-plugin .wp-upload-form input[type=text] {
+	width: 30%;
+	margin-right:6px;
+}
+
+.bgbkup-page-container .upload-plugin #upload-archive-section {
+	align-items: center;
+}
+
+.bgbkup-page-container .upload-plugin #upload-archive-section form {
+	width: 60%;
+}
+
+.bgbkup-page-container .upload-plugin #upload-archive-section form input[type="file"] {
+	width: 50%;
+}
+
+.bgbkup-page-container .upload-plugin #upload-archive-section .error_messages {
+	width: 100%;
+}

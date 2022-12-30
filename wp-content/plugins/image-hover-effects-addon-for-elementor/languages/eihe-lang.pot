@@ -1,0 +1,471 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Blank WordPress Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2019-06-25 13:14+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.2.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: image-hover-effects-addon-for-elementor.php:100
+msgid ""
+"Enjoying our "
+"<strong>Image Hover "
+"Effects Addon for "
+"Elementor?</strong> We "
+"hope you liked it! If "
+"you feel this plugin "
+"helped you, You can give "
+"us a 5 star rating!"
+"<br>It will motivate us "
+"to serve you more !"
+msgstr ""
+
+#: image-hover-effects-addon-for-elementor.php:101
+msgid "Rate the Plugin!"
+msgstr ""
+
+#: image-hover-effects-addon-for-elementor.php:102
+msgid "Go Pro"
+msgstr ""
+
+#: image-hover-effects-addon-for-elementor.php:103
+msgid "Already Done"
+msgstr ""
+
+#: includes/widgets.php:15
+#: includes/widgets.php:27
+msgid "Image Hover Effects"
+msgstr ""
+
+#: includes/widgets.php:35
+msgid "Effect"
+msgstr ""
+
+#: includes/widgets.php:38
+msgid "Fade"
+msgstr ""
+
+#: includes/widgets.php:39
+msgid "Fade In Up"
+msgstr ""
+
+#: includes/widgets.php:40
+msgid "Fade In Down"
+msgstr ""
+
+#: includes/widgets.php:41
+msgid "Fade In Left"
+msgstr ""
+
+#: includes/widgets.php:42
+msgid "Fade In Right"
+msgstr ""
+
+#: includes/widgets.php:43
+msgid "Slide Up"
+msgstr ""
+
+#: includes/widgets.php:44
+msgid "Slide Down"
+msgstr ""
+
+#: includes/widgets.php:45
+msgid "Slide Left"
+msgstr ""
+
+#: includes/widgets.php:46
+msgid "Slide Right"
+msgstr ""
+
+#: includes/widgets.php:47
+msgid "Reveal Up"
+msgstr ""
+
+#: includes/widgets.php:48
+msgid "Reveal Down"
+msgstr ""
+
+#: includes/widgets.php:49
+msgid "Reveal Left"
+msgstr ""
+
+#: includes/widgets.php:50
+msgid "Reveal Right"
+msgstr ""
+
+#: includes/widgets.php:51
+msgid "Push Up"
+msgstr ""
+
+#: includes/widgets.php:52
+msgid "Push Down"
+msgstr ""
+
+#: includes/widgets.php:53
+msgid "Push Left"
+msgstr ""
+
+#: includes/widgets.php:54
+msgid "Push Right"
+msgstr ""
+
+#: includes/widgets.php:55
+msgid "Hinge Up"
+msgstr ""
+
+#: includes/widgets.php:56
+msgid "Hinge Down"
+msgstr ""
+
+#: includes/widgets.php:57
+msgid "Hinge Left"
+msgstr ""
+
+#: includes/widgets.php:58
+msgid "Hinge Right"
+msgstr ""
+
+#: includes/widgets.php:59
+msgid "Flip Horizontal"
+msgstr ""
+
+#: includes/widgets.php:60
+msgid "Flip Vertical"
+msgstr ""
+
+#: includes/widgets.php:61
+msgid "Flip Crosss 1"
+msgstr ""
+
+#: includes/widgets.php:62
+msgid "Flip Crosss 2"
+msgstr ""
+
+#: includes/widgets.php:63
+msgid ""
+"Shutter Out Horizontal"
+msgstr ""
+
+#: includes/widgets.php:64
+msgid ""
+"Shutter Out Vertical"
+msgstr ""
+
+#: includes/widgets.php:65
+msgid ""
+"Shutter Out Crosss 1"
+msgstr ""
+
+#: includes/widgets.php:66
+msgid ""
+"Shutter Out Crosss 2"
+msgstr ""
+
+#: includes/widgets.php:67
+msgid ""
+"Shutter In Horizontal"
+msgstr ""
+
+#: includes/widgets.php:68
+msgid "Shutter In Vertical"
+msgstr ""
+
+#: includes/widgets.php:69
+msgid ""
+"Shutter In Out Horizontal"
+msgstr ""
+
+#: includes/widgets.php:70
+msgid ""
+"Shutter In Out Vertical"
+msgstr ""
+
+#: includes/widgets.php:71
+msgid ""
+"Shutter In Out Crosss 1"
+msgstr ""
+
+#: includes/widgets.php:72
+msgid ""
+"Shutter In Out Crosss 2"
+msgstr ""
+
+#: includes/widgets.php:73
+msgid "Fold Up"
+msgstr ""
+
+#: includes/widgets.php:74
+msgid "Fold Down"
+msgstr ""
+
+#: includes/widgets.php:75
+msgid "Fold Left"
+msgstr ""
+
+#: includes/widgets.php:76
+msgid "Fold Right"
+msgstr ""
+
+#: includes/widgets.php:77
+msgid "Zoom In"
+msgstr ""
+
+#: includes/widgets.php:78
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/widgets.php:79
+msgid "Zoom Out Up"
+msgstr ""
+
+#: includes/widgets.php:80
+msgid "Zoom Out Down"
+msgstr ""
+
+#: includes/widgets.php:81
+msgid "Zoom Out Left"
+msgstr ""
+
+#: includes/widgets.php:82
+msgid "Zoom Out Right"
+msgstr ""
+
+#: includes/widgets.php:83
+msgid ""
+"Zoom Out Flip Vertical"
+msgstr ""
+
+#: includes/widgets.php:84
+msgid ""
+"Zoom Out Flip Horizontal"
+msgstr ""
+
+#: includes/widgets.php:85
+msgid "Blur"
+msgstr ""
+
+#: includes/widgets.php:94
+msgid "Choose Image"
+msgstr ""
+
+#: includes/widgets.php:116
+#: includes/widgets.php:118
+#: includes/widgets.php:338
+msgid "Title"
+msgstr ""
+
+#: includes/widgets.php:119
+msgid ""
+"Type your title here"
+msgstr ""
+
+#: includes/widgets.php:128
+msgid "Title Tag"
+msgstr ""
+
+#: includes/widgets.php:131
+msgid "H1"
+msgstr ""
+
+#: includes/widgets.php:132
+msgid "H2"
+msgstr ""
+
+#: includes/widgets.php:133
+msgid "H3"
+msgstr ""
+
+#: includes/widgets.php:134
+msgid "H4"
+msgstr ""
+
+#: includes/widgets.php:135
+msgid "H5"
+msgstr ""
+
+#: includes/widgets.php:136
+msgid "H6"
+msgstr ""
+
+#: includes/widgets.php:137
+msgid "Paragraph"
+msgstr ""
+
+#: includes/widgets.php:138
+msgid "Span"
+msgstr ""
+
+#: includes/widgets.php:147
+#: includes/widgets.php:150
+#: includes/widgets.php:373
+msgid "Description"
+msgstr ""
+
+#: includes/widgets.php:151
+msgid ""
+"Type your description "
+"here"
+msgstr ""
+
+#: includes/widgets.php:160
+#: includes/widgets.php:408
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets.php:171
+msgid "Icon Position"
+msgstr ""
+
+#: includes/widgets.php:174
+msgid "Before"
+msgstr ""
+
+#: includes/widgets.php:175
+msgid "After"
+msgstr ""
+
+#: includes/widgets.php:184
+msgid "Link To"
+msgstr ""
+
+#: includes/widgets.php:186
+msgid ""
+"https://your-link.com"
+msgstr ""
+
+#: includes/widgets.php:201
+msgid "PRO Features"
+msgstr ""
+
+#: includes/widgets.php:209
+msgid " "
+msgstr ""
+
+#: includes/widgets.php:212
+msgid ""
+"<br/><div>Meet Our Pro "
+"Effects</div><br/>Thank "
+"you for installing our "
+"plugin, you can also try "
+"our premium version "
+"which includes 150+ "
+"Creative Hover "
+"effects<br/><br/><a "
+"target=\"_blank\" href="
+"\"https://tiny.cc/eihe-"
+"pro\">Emage Hover "
+"Effects</a>"
+msgstr ""
+
+#: includes/widgets.php:220
+msgid "Style"
+msgstr ""
+
+#: includes/widgets.php:228
+msgid "Background"
+msgstr ""
+
+#: includes/widgets.php:256
+msgid ""
+"Horizontal Alignment"
+msgstr ""
+
+#: includes/widgets.php:260
+msgid "Left"
+msgstr ""
+
+#: includes/widgets.php:264
+msgid "Center"
+msgstr ""
+
+#: includes/widgets.php:268
+msgid "Right"
+msgstr ""
+
+#: includes/widgets.php:282
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/widgets.php:286
+msgid "Top"
+msgstr ""
+
+#: includes/widgets.php:290
+msgid "Middle"
+msgstr ""
+
+#: includes/widgets.php:294
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets.php:308
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets.php:326
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets.php:347
+#: includes/widgets.php:382
+#: includes/widgets.php:417
+msgid "Color"
+msgstr ""
+
+#: includes/widgets.php:364
+#: includes/widgets.php:399
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets.php:433
+msgid "Icon Size"
+msgstr ""
+
+#: includes/widgets.php:453
+msgid "Icon Space"
+msgstr ""

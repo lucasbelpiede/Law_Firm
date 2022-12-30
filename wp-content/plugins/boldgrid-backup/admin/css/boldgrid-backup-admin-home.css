@@ -1,0 +1,20 @@
+#upload-archive-section .spinner {
+	display: none;
+	float: none !important;
+}
+
+.upload-plugin .help {
+	background: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 0px;
+}
+
+/* Disable floating of mine count so help section displays nicely. */
+.subsubsub {
+	float: none;
+}
+
+.page-title-actions {
+	display: inline-block;
+}

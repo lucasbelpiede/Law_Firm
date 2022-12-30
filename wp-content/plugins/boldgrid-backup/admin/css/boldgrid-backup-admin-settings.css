@@ -1,0 +1,48 @@
+/* If a day of the week checkbox is disabled, modify its hover cursor. */
+.schedule-dow input[type='checkbox'][disabled]:hover {
+	cursor: not-allowed;
+}
+
+.form-table tr td p {
+	padding: 5px 0px;
+	margin: 0px;
+}
+
+.bgb-unbold {
+	font-weight: normal;
+}
+
+#auto-recovery-tr {
+	display: none;
+}
+
+/**
+ * Auto Update Styles
+ */
+.auto-update-settings.form-table .table-help td,
+.auto-update-settings.form-table .table-help td p {
+	padding: 0;
+	padding-left: 5px;
+}
+
+.form-table .bglib-divider {
+	border-bottom: 1px solid #e2e4e7;
+}
+#section_auto_updates .form-table th {
+	width: auto;
+}
+.auto-update-settings.form-table td {
+	padding: 5px 5px;
+}
+
+.auto-update-settings .toggle.right {
+	float: right;
+}
+
+.auto-update-settings input[type="number"] {
+	width: 5em;
+}
+.auto-update-settings .help-icon {
+	vertical-align: middle;
+	padding-left: 0.25em;
+}
