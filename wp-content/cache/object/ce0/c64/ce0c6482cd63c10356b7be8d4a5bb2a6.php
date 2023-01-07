@@ -1,4 +1,4 @@
-)¹c<?php exit; ?>a:1:{s:7:"content";a:6:{s:5:"_form";a:1:{i:0;s:88:"<label>[email* your-email placeholder "digite o seu e-mail..."][submit "ENVIAR"]</label>";}s:5:"_mail";a:1:{i:0;s:498:"a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:35:"[_site_title] <contact@lawfirm.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:178:"De: [your-name] <[your-email]>
+,¹c<?php exit; ?>a:1:{s:7:"content";a:6:{s:5:"_form";a:1:{i:0;s:88:"<label>[email* your-email placeholder "digite o seu e-mail..."][submit "ENVIAR"]</label>";}s:5:"_mail";a:1:{i:0;s:498:"a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:35:"[_site_title] <contact@lawfirm.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:178:"De: [your-name] <[your-email]>
 Assunto: [your-subject]
 
 Corpo da mensagem:

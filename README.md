@@ -55,7 +55,7 @@
 
 ## About The Project
 
-<iframe src="https://1lu10fe8-9be8.github.io/Advocacy-Website" width="640" height="480" style="margin: 50px; border: none;"></iframe>
+[![Law Firm Screenshot][product-screenshot]](https://1lu10fe8-9be8.github.io/Advocacy-Website)
 
 The purpose of this template is facilitate the development process of advocacy websites.
 
@@ -145,9 +145,9 @@ Project Link: [https://github.com/1Lu10Fe8-9Be8/Advocacy-Website](https://github
 [NGINX-url]: https://nginx.org
 [Apache.org]: https://img.shields.io/badge/Apache-(With_mod__rewrite_Module)-important?style=flat-square&logo=apache&logoColor=white&labelColor=D22128
 [Apache-url]: https://httpd.apache.org
+[product-screenshot]: wp-content/uploads/2023/01/Law-Firm-Screenshot.jpg
 
 <!--
-  [product-screenshot]: wp-content/uploads/2022/11/banner.png
   [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
   [Next-url]: https://nextjs.org
   [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
