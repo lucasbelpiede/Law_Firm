@@ -6,15 +6,15 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.11 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Home - Law Firm</title>
-	<meta name="description" content="A Law Firm é um Escritório de Advocacia Especialista em Consultoria Jurídica. Fale Conosco e Veja Como Podemos Ajudar Sua Empresa." />
+	<meta name="description" content="A Law Firm é um Escritório de Advocacia Especialista em Consultoria Jurídica. Fale Conosco e Veja Como Podemos Ajudar sua Empresa." />
 	<link rel="canonical" href="http://localhost/Law_Firm/" />
 	<meta property="og:locale" content="pt_BR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Home - Law Firm" />
-	<meta property="og:description" content="A Law Firm é um Escritório de Advocacia Especialista em Consultoria Jurídica. Fale Conosco e Veja Como Podemos Ajudar Sua Empresa." />
+	<meta property="og:description" content="A Law Firm é um Escritório de Advocacia Especialista em Consultoria Jurídica. Fale Conosco e Veja Como Podemos Ajudar sua Empresa." />
 	<meta property="og:url" content="http://localhost/Law_Firm/" />
 	<meta property="og:site_name" content="Law Firm" />
-	<meta property="article:modified_time" content="2022-12-28T19:01:30+00:00" />
+	<meta property="article:modified_time" content="2022-12-30T14:35:10+00:00" />
 	<meta property="og:image" content="http://localhost/Law_Firm/wp-content/uploads/2022/11/logo-a.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. tempo de leitura" />
@@ -38,8 +38,8 @@
 	            },
 	            "thumbnailUrl": "http://localhost/Law_Firm/wp-content/uploads/2022/11/logo-a.png",
 	            "datePublished": "2022-11-27T19:49:11+00:00",
-	            "dateModified": "2022-12-28T19:01:30+00:00",
-	            "description": "A Law Firm é um Escritório de Advocacia Especialista em Consultoria Jurídica. Fale Conosco e Veja Como Podemos Ajudar Sua Empresa.",
+	            "dateModified": "2022-12-30T14:35:10+00:00",
+	            "description": "A Law Firm é um Escritório de Advocacia Especialista em Consultoria Jurídica. Fale Conosco e Veja Como Podemos Ajudar sua Empresa.",
 	            "breadcrumb": {
 	                "@id": "http://localhost/Law_Firm/#breadcrumb"
 	            },
@@ -134,7 +134,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-icons-css' href='http://localhost/Law_Firm/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' media='all' />
 <link rel='stylesheet' id='eihe-front-style-css' href='http://localhost/Law_Firm/wp-content/plugins/image-hover-effects-addon-for-elementor/assets/style.min.css?ver=1.3.7' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='http://localhost/Law_Firm/wp-content/uploads/elementor/css/global.css?ver=1669881051' media='all' />
-<link rel='stylesheet' id='elementor-post-48-css' href='http://localhost/Law_Firm/wp-content/uploads/elementor/css/post-48.css?ver=1672254097' media='all' />
+<link rel='stylesheet' id='elementor-post-48-css' href='http://localhost/Law_Firm/wp-content/uploads/elementor/css/post-48.css?ver=1672410946' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css' href='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.7.5' media='all' />
 <link rel='stylesheet' id='ekit-responsive-css' href='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.7.5' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.1.1' media='all' />
@@ -1180,7 +1180,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.1' id='elementor-frontend-js'></script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.7.5' id='animate-circle-js'></script>
 <script id='elementskit-elementor-js-extra'>
-var ekit_config = {"ajaxurl":"http:\/\/localhost\/Law_Firm\/wp-admin\/admin-ajax.php","nonce":"79f30bf482"};
+var ekit_config = {"ajaxurl":"http:\/\/localhost\/Law_Firm\/wp-admin\/admin-ajax.php","nonce":"f84881d4b1"};
 </script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.7.5' id='elementskit-elementor-js'></script>
 <script src='http://localhost/Law_Firm/wp-content/plugins/master-addons/assets/js/plugins.js?ver=1.9.7' id='master-addons-plugins-js'></script>
@@ -1195,10 +1195,10 @@ var jltma_data_table_vars = {"lengthMenu":"Display _MENU_ records per page","zer
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 97/103 objects using disk
+Object Caching 98/105 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading
-Database Caching 7/16 queries in 0.014 seconds using disk
+Database Caching 7/17 queries in 0.020 seconds using disk
 
-Served from: localhost @ 2022-12-30 10:52:26 by W3 Total Cache
+Served from: localhost @ 2023-01-06 23:31:08 by W3 Total Cache
 -->
