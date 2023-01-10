@@ -83,7 +83,7 @@ This is a list of technologies you need to use the template.
 
 1. Get a free XAMPP download at [https://www.apachefriends.org](https://www.apachefriends.org) and install (or you can use any other solution stack software based in PHP, MySQL or MariaDB DBMS, NGINX or Apache web servers with HTTPS support you prefer)
 2. Open the XAMPP and start Apache and MySQL
-3. Create a new database named "lawfirm" at [http://localhost/phpmyadmin](http://localhost/phpmyadmin) and import `database/lawfirm.sql` file
+3. Create a new database named "lawfirm" at [http://localhost/phpmyadmin](http://localhost/phpmyadmin) and import `database/lawfirm.zip` file
 4. Clone the repo into XAMPP "htdocs" folder
    ```sh
    git clone https://github.com/1Lu10Fe8-9Be8/Law_Firm.git
