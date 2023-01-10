@@ -1,4 +1,4 @@
-,¹c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:941;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-12-01 01:12:32";s:13:"post_date_gmt";s:19:"2022-12-01 04:12:32";s:12:"post_content";s:1566:"<label>[email* your-email placeholder "digite o seu e-mail..."][submit "ENVIAR"]</label>
+!·½c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:941;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-12-01 01:12:32";s:13:"post_date_gmt";s:19:"2022-12-01 04:12:32";s:12:"post_content";s:1566:"<label>[email* your-email placeholder "digite o seu e-mail..."][submit "ENVIAR"]</label>
 1
 [_site_title] "[your-subject]"
 [_site_title] <contact@lawfirm.com>
