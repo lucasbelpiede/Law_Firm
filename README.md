@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/1Lu10Fe8-9Be8/Law_Firm">
+  <a href="https://github.com/lucasbelpiede/Law_Firm">
     <img src="wp-content/uploads/2022/11/logo-b.png" alt="Logo" width="85" height="61">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     A advocacy website template developed with WordPress
     <br/>
-    <a href="https://github.com/1Lu10Fe8-9Be8/Law_Firm"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lucasbelpiede/Law_Firm"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://1lu10fe8-9be8.github.io/Law_Firm">View Demo</a>
+    <a href="https://lucasbelpiede.github.io/Law_Firm">View Demo</a>
     ·
-    <a href="https://github.com/1Lu10Fe8-9Be8/Law_Firm/issues">Report Bug</a>
+    <a href="https://github.com/lucasbelpiede/Law_Firm/issues">Report Bug</a>
     ·
-    <a href="https://github.com/1Lu10Fe8-9Be8/Law_Firm/issues">Request Feature</a>
+    <a href="https://github.com/lucasbelpiede/Law_Firm/issues">Request Feature</a>
   </p>
 </div>
 
@@ -55,7 +55,7 @@
 
 ## About The Project
 
-[![Law Firm Screenshot][product-screenshot]](https://1lu10fe8-9be8.github.io/Law_Firm)
+[![Law Firm Screenshot][product-screenshot]](https://lucasbelpiede.github.io/Law_Firm)
 
 The purpose of this template is facilitate the development process of advocacy websites.
 
@@ -84,7 +84,7 @@ This is a list of technologies you need to use the template.
 1. Get a free XAMPP download at [https://www.apachefriends.org](https://www.apachefriends.org) and install (or you can use any other solution stack software based in PHP, MySQL or MariaDB DBMS, NGINX or Apache web servers with HTTPS support you prefer)
 2. Clone the repo into XAMPP "htdocs" folder
    ```sh
-   git clone https://github.com/1Lu10Fe8-9Be8/Law_Firm.git
+   git clone https://github.com/lucasbelpiede/Law_Firm.git
    ```
 3. Open the XAMPP and start Apache and MySQL
 4. Create a new database named "lawfirm" at [http://localhost/phpmyadmin](http://localhost/phpmyadmin) and import `database/lawfirm.zip` file
@@ -117,20 +117,20 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 Lucas Ferraz Belpiede - [+55 (87) 98835-0714](https://wa.me/5587988350714) - lucasferrazbelpiede01@hotmail.com
 
-Project Link: [https://github.com/1Lu10Fe8-9Be8/Law_Firm](https://github.com/1Lu10Fe8-9Be8/Law_Firm)
+Project Link: [https://github.com/lucasbelpiede/Law_Firm](https://github.com/lucasbelpiede/Law_Firm)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/1Lu10Fe8-9Be8/Law_Firm.svg?style=for-the-badge
-[contributors-url]: https://github.com/1Lu10Fe8-9Be8/Law_Firm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/1Lu10Fe8-9Be8/Law_Firm.svg?style=for-the-badge
-[forks-url]: https://github.com/1Lu10Fe8-9Be8/Law_Firm/network/members
-[stars-shield]: https://img.shields.io/github/stars/1Lu10Fe8-9Be8/Law_Firm.svg?style=for-the-badge
-[stars-url]: https://github.com/1Lu10Fe8-9Be8/Law_Firm/stargazers
-[issues-shield]: https://img.shields.io/github/issues/1Lu10Fe8-9Be8/Law_Firm.svg?style=for-the-badge
-[issues-url]: https://github.com/1Lu10Fe8-9Be8/Law_Firm/issues
-[license-shield]: https://img.shields.io/github/license/1Lu10Fe8-9Be8/Law_Firm.svg?style=for-the-badge
-[license-url]: https://github.com/1Lu10Fe8-9Be8/Law_Firm/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/lucasbelpiede/Law_Firm.svg?style=for-the-badge
+[contributors-url]: https://github.com/lucasbelpiede/Law_Firm/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lucasbelpiede/Law_Firm.svg?style=for-the-badge
+[forks-url]: https://github.com/lucasbelpiede/Law_Firm/network/members
+[stars-shield]: https://img.shields.io/github/stars/lucasbelpiede/Law_Firm.svg?style=for-the-badge
+[stars-url]: https://github.com/lucasbelpiede/Law_Firm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lucasbelpiede/Law_Firm.svg?style=for-the-badge
+[issues-url]: https://github.com/lucasbelpiede/Law_Firm/issues
+[license-shield]: https://img.shields.io/github/license/lucasbelpiede/Law_Firm.svg?style=for-the-badge
+[license-url]: https://github.com/lucasbelpiede/Law_Firm/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lucasbelpiede
 [WordPress.org]: https://img.shields.io/badge/WordPress_6.1.1-21759B?style=for-the-badge&logo=wordpress&logoColor=white
