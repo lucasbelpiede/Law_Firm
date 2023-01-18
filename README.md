@@ -55,7 +55,7 @@
 
 ## About The Project
 
-[![Law Firm Screenshot][product-screenshot]](https://lucasbelpiede.github.io/Law_Firm)
+[![Law Firm GIF][product-gif]](https://lucasbelpiede.github.io/Law_Firm)
 
 The purpose of this template is facilitate the development process of advocacy websites.
 
@@ -87,7 +87,7 @@ This is a list of technologies you need to use the template.
    git clone https://github.com/lucasbelpiede/Law_Firm.git
    ```
 3. Open the XAMPP and start Apache and MySQL
-4. Create a new database named "lawfirm" at [http://localhost/phpmyadmin](http://localhost/phpmyadmin) and import `database/lawfirm.zip` file
+4. Create a new database named "lawfirm" at [http://localhost/phpmyadmin](http://localhost/phpmyadmin) and import `database/lawfirm.sql` file
 5. Sign in the website at [http://localhost/Law_Firm/wp-login.php](http://localhost/Law_Firm/wp-login.php) with "Law_Firm" username and "law_firm@admin01" password
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,7 +145,7 @@ Project Link: [https://github.com/lucasbelpiede/Law_Firm](https://github.com/luc
 [NGINX-url]: https://nginx.org
 [Apache.org]: https://img.shields.io/badge/Apache-(With_mod__rewrite_Module)-important?style=flat-square&logo=apache&logoColor=white&labelColor=D22128
 [Apache-url]: https://httpd.apache.org
-[product-screenshot]: wp-content/uploads/2023/01/Law-Firm-Screenshot.jpg
+[product-gif]: wp-content/uploads/2023/01/Law-Firm-GIF.gif
 
 <!--
   [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
